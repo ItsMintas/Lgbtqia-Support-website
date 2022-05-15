@@ -5,7 +5,7 @@ p{
   margin:20px;
   font-size:30px;
   font-weight: bold;
-  font:Courier;
+  font-family:Courier;
 }
 
 @keyframes color-change {
